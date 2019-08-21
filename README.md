@@ -1,6 +1,6 @@
 # ReplaceWords
 This is a chrome extension that searches and replaces words on a website. Input a word you want 
-to search for and another word that replaces it. This will replace all occuring words on the
+to search for and another word that will replaces it. This will replace all occuring words on the
 website. Mostly working but may still have some bugs.
 
 This was created as a fun little side project to get me familiar with some Javascript, HTML, 
